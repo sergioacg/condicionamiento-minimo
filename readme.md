@@ -13,7 +13,8 @@ Este repositorio contiene los códigos MATLAB utilizados en el video de YouTube 
 
 Puedes ver el video explicativo directamente aquí:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t3HY1hI9QMk?si=kBpgtjsvdmV0mOwt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[https://www.youtube.com/embed/t3HY1hI9QMk?si=kBpgtjsvdmV0mOwt](https://www.youtube.com/embed/t3HY1hI9QMk?si=kBpgtjsvdmV0mOwt)
+
 
 ## Más Información
 
